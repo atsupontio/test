@@ -14,3 +14,5 @@ $3 / 4 = 0 remainder 3$
 $3 \div 4 = 0$ remainder $3$
 
 $3 \div 4 = 2 \text{mod} 5$
+
+$3 \div 4 = 2 \mod 5$
